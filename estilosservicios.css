@@ -1,0 +1,10 @@
+.titulo{font-size: 40px; font-family: Arial Black;}
+body{background-color: #93E5EF;}
+td,th{border-style: solid;border-color: black; text-align: center; 
+		font-size: 19px; font-family: Arial;}
+table{background-color: white; margin-left: auto;margin-right: auto; border-width: 400px;}
+.info{text-align: center;}
+.menu{font-size: 25px;}
+.subs{font-size: 21px;}
+.cuarto{height: 200px; width: 350px;}
+ul,li{text-align: left;}
