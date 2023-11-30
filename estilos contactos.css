@@ -1,0 +1,7 @@
+table{background-color: white; margin-left: auto; margin-right: auto; width: 1000px}
+td,th{border-color: black; border-style: solid;}
+td{text-align:center; font-family: Arial; font-size: 19px;}
+h1{font-family: Arial Black; font-size: 40px;}
+.contacto{height: 150px; width: 500px; text-align: left;}
+body{background-color: #93E5EF;}
+.menu{font-size: 25px; font-family: Arial;}
